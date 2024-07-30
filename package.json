@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "homepage": "https://noahsmelb.github.io",
+  "private": true,
+
+  "devDependencies": {
+	"gh-pages": "^6.1.1"
+}
+
+"scripts" : {
+"predeploy" : "npm run build"
+}
+
+
+}
